@@ -11,7 +11,6 @@ def muestra():
     print("||           Integrantes del equipo             ||") ; print("||"," "*44,"||")
     print("||                Marco Umido                   ||")
     print("||               Romina Ulerich                 ||")
-    print("||              Maximiliano Vega                ||")
     print("||              Joel Vartorelli                 ||")
     print("||                Diego Ormeño                  ||")
     print("||               Marcelo Zaracho                ||")
